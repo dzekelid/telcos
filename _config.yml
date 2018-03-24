@@ -1,10 +1,11 @@
-title: Streamdata Gallery Telco
-url: telco.streamdata.gallery
-tag: Telco
+title: Streamdata API Gallery - Telcos
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
+url: telcos.streamdata.gallery
+tag: Telcos
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: telco
+github_repo: telcos
 github_branch: master
 collections:
   listings:
